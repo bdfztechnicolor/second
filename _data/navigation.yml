@@ -1,9 +1,9 @@
 links:
-- name: Portfolio
+- name: 项目
   link: /portfolio/
-- name: Blog
+- name: 消息
   link: /blog/
-- name: About
+- name: 我们的社员
   link: /about/
-- name: Contact
+- name: 联系我们
   link: /contact/
